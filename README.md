@@ -44,9 +44,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<br>
-<br>
-
 ----
 
 <br>
