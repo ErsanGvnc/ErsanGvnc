@@ -9,9 +9,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://ersanguvenc.com/
 
+### Connect with me:
+
+[<img align="left" alt="Ersan Güvenç | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
 <!---
 ErsanGvnc/ErsanGvnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 [website]: https://devssociety.com
+[linkedin]: https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202
