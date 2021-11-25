@@ -46,8 +46,6 @@ No Activity tracked this Week
 
 ----
 
-<br>
-
 ## Now Playing
 
 
