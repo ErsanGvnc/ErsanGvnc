@@ -5,6 +5,10 @@
 [![Website](https://img.shields.io/website?label=DEVSSociety.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devssociety.com)
 [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PtHFyPRz)
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+</p>
+
 - 👋 Hi, I’m @ErsanGvnc
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter/Dart and Node.js
@@ -28,9 +32,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
-</p>
+
 
 <!---
 ErsanGvnc/ErsanGvnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
