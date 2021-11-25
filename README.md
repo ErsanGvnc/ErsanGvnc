@@ -1,8 +1,7 @@
 ### Hi there, I'm Ersan [DEVS Society][website] 👋 
 
-[![Website](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://devssociety.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devssociety.com)
 [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PtHFyPRz)
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 - 👋 Hi, I’m @ErsanGvnc
 - 👀 I’m interested in Mobile App Development
