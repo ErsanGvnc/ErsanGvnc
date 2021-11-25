@@ -1,7 +1,7 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 
 [![Website](https://img.shields.io/website?label=DEVS%20Society.com&style=for-the-badge&url=https://devssociety.com)](https://devssociety.com)
-[![Join Discord](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://discord.gg/PtHFyPRz)
+[![Join Discord](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=discord&style=for-the-badge)](https://discord.gg/PtHFyPRz)
 
 - 👋 Hi, I’m @ErsanGvnc
 - 👀 I’m interested in Mobile App Development
