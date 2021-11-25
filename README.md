@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Flutter/Dart and Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://ersanguvenc.com/
-
+----
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
