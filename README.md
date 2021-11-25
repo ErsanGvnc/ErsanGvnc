@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
-----
+
 - 👋 Hi, I’m @ErsanGvnc
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter/Dart and Node.js
