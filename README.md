@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://ersanguvenc.com/
 
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ersan Güvenç | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
