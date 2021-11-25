@@ -39,7 +39,7 @@
 
 [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
 
-----
+
 
 
 
