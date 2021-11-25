@@ -6,7 +6,7 @@
 [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PtHFyPRz)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=2022ba&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
 
 - 👋 Hi, I’m @ErsanGvnc
