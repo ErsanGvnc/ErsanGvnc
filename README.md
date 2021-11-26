@@ -52,6 +52,10 @@ No Activity tracked this Week
 
 
 
+<img src="https://imgur.com/a/0WxfWHJ" width="100px" height="100px">
+
+
+
 
 
 
