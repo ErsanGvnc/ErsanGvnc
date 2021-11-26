@@ -51,10 +51,6 @@ No Activity tracked this Week
 [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
 
 
-
-https://user-images.githubusercontent.com/57798484/143587662-de609f00-4c62-4e52-813c-52f81dd24b96.mp4
-
-
 <!---
 ErsanGvnc/ErsanGvnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
