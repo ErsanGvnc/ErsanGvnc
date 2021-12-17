@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 [webdevplaylist]: https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202/
 
 
-<img src="https://media.giphy.com/media/TfgYXmTxTorRejwHId/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/TfgYXmTxTorRejwHId/giphy.gif"/>
