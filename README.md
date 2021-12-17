@@ -60,6 +60,3 @@ You can click the Preview link to take a look at your changes.
 [website]: https://devssociety.com/
 [linkedin]: https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202/
 [webdevplaylist]: https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202/
-
-
-<img src="https://media.giphy.com/media/TfgYXmTxTorRejwHId/giphy.gif"/>
