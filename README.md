@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on ...
 - 📱  https://play.google.com/store/apps/details?id=com.ARMOYU
-- 📫 How to reach me https://ersanguvenc.com/
+- 📫 How to reach me https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202
 
 ----
 
