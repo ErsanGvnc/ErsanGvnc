@@ -25,6 +25,10 @@
 
 ----
 
+![armoyu](https://user-images.githubusercontent.com/57798484/179216455-4c3a58df-1e79-4f24-959d-22f681a6ade3.png)
+
+----
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ersan-g%C3%BCven%C3%A7-359b32202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
