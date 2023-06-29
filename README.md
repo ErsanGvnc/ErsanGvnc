@@ -21,7 +21,8 @@
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on ...
-- 📱   My social media app https://play.google.com/store/apps/details?id=com.ARMOYU
+- 📱  My social media app Android: [https://play.google.com/store/apps/details?id=com.ARMOYU](https://play.google.com/store/apps/details?id=com.ARMOYU)
+- 📱  My social media app IOS: [https://play.google.com/store/apps/details?id=com.ARMOYU](https://apps.apple.com/tr/app/armoyu/id6448871009?platform=iphone)
 - 📫 How to reach me https://www.linkedin.com/in/ersanguvenc/
 
 ----
