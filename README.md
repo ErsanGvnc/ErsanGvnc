@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on ...
 - 📱  My social media app Android: [https://play.google.com/store/apps/details?id=com.ARMOYU](https://play.google.com/store/apps/details?id=com.ARMOYU)
-- 📱  My social media app IOS: [https://apps.apple.com/tr/app/armoyu/id6448871009?platform=iphone](https://apps.apple.com/tr/app/armoyu/id6448871009?platform=iphone)
+- 📱  My social media app IOS: [https://apps.apple.com/tr/app/armoyu/id6448871009](https://apps.apple.com/tr/app/armoyu/id6448871009)
 - 📫 How to reach me https://www.linkedin.com/in/ersanguvenc/
 
 ----
