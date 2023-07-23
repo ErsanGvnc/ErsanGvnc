@@ -29,26 +29,6 @@
 
 ![armoyu](https://user-images.githubusercontent.com/57798484/179216455-4c3a58df-1e79-4f24-959d-22f681a6ade3.png)
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.ARMOYU" target="_blank">
-    <img src="assets/images/readme/playstorebadge.svg" width="200"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://apps.apple.com/tr/app/armoyu/id6448871009" target="_blank">
-    <img src="assets/images/readme/appstorebadge.svg" width="200"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.ARMOYU" target="_blank">
-    <img src="assets/images/readme/androidqr.svg" width="200"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://apps.apple.com/tr/app/armoyu/id6448871009" target="_blank">
-    <img src="assets/images/readme/iosqr.svg" width="200"/>
-  </a>
-</p>
-
 ----
 
 ### Connect with me:
