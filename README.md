@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!">
 </p>
 
 ----
