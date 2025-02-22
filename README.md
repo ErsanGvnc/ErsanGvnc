@@ -1,7 +1,5 @@
-### <h2> Hi there, I'm Ersan [ersanguvenc.com][website] <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30"> </h2>
-<!---
-<a href="https://www.linkedin.com/in/ersanguvenc/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
---->
+### <h2> Hi there, I'm Ersan [ersanguvenc.com][website] <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width = "30">  </h2>
+
 ----
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
