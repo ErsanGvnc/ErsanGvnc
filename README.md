@@ -1,15 +1,9 @@
-### <h2>Hi there, I'm Ersan <a href="https://ersanguvenc.com" target="_blank">ersanguvenc.com</a></h2>
+### <h2>Hi there, I'm Ersan - Software & Cloud Engineer | DevOps & Scalability Enthusiast</h2>
 
-
-----
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Website](https://img.shields.io/website?label=ersanguvenc.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ersanguvenc.com)
-![GitHub Views](https://komarev.com/ghpvc/?username=ErsanGvnc&style=for-the-badge&color=blue)
-
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
 
 ----
