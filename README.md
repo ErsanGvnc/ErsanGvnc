@@ -1,4 +1,4 @@
-### <h2> Hi there, I'm Ersan [ersanguvenc.com][website] <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width = "30">  </h2>
+### <h2>Hi there, I'm Ersan <a href="https://ersanguvenc.com" target="_blank">ersanguvenc.com</a></h2>
 
 ----
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -55,6 +55,5 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <br>
-----
 
 [website]: https://ersanguvenc.com
