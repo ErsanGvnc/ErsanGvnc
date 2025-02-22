@@ -1,3 +1,4 @@
+
 ### <h2>Hi there, I'm Ersan - Software & Cloud Engineer | DevOps Enthusiast</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -8,14 +9,15 @@
 
 ----
 
--   👋 Hi, I’m @ErsanGvnc
--   ☁️ I’m passionate about Cloud, DevOps, and Scalable Systems
--   💻 I’m a Software & Cloud Engineer with an interest in automation and efficiency
--   🚀 I have experience in full-stack development and cloud-native solutions
--   🌱 Currently exploring distributed systems and cloud architectures
--   📱 My social media app (Android): [Google Play](https://play.google.com/store/apps/details?id=com.ARMOYU)
--   📱 My social media app (iOS): [App Store](https://apps.apple.com/tr/app/armoyu/id6448871009)
--   📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ersanguvenc/)
+- 👋 Hi, I’m @ErsanGvnc
+- ☁️ Passionate about Cloud, DevOps, and Scalable Systems
+- 💻 Software & Cloud Engineer, interested in automation and efficiency
+- 🚀 Experience in full-stack development and cloud-native solutions
+- 🌱 Currently exploring distributed systems and cloud architectures
+- 🌐 Visit my website!: ersanguvenc.com
+- 📱 My social media app (Android): Google Play
+- 📱 My social media app (iOS): App Store
+- 📫 Connect with me on LinkedIn
 
 ----
 
