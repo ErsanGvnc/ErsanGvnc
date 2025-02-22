@@ -1,14 +1,11 @@
-
-
-### <h2> Hi there, I'm Ersan [DEVS Society][website] <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30"> </h2>
+### <h2> Hi there, I'm Ersan [ersanguvenc.com][website] <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30"> </h2>
 <!---
 <a href="https://www.linkedin.com/in/ersanguvenc/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 --->
 ----
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Website](https://img.shields.io/website?label=DEVSSociety.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devssociety.com)
-[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PtHFyPRz)
+[![Website](https://img.shields.io/website?label=ersanguvenc.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ersanguvenc.com)
 ![GitHub Views](https://komarev.com/ghpvc/?username=ErsanGvnc&style=for-the-badge&color=blue)
 
 
@@ -18,13 +15,14 @@
 
 ----
 
-- 👋 Hi, I’m @ErsanGvnc
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on ...
-- 📱  My social media app Android: [https://play.google.com/store/apps/details?id=com.ARMOYU](https://play.google.com/store/apps/details?id=com.ARMOYU)
-- 📱  My social media app IOS: [https://apps.apple.com/tr/app/armoyu/id6448871009](https://apps.apple.com/tr/app/armoyu/id6448871009)
-- 📫 How to reach me https://www.linkedin.com/in/ersanguvenc/
+-   👋 Hi, I’m @ErsanGvnc
+-   ☁️ I’m passionate about Cloud, DevOps, and Scalable Systems
+-   💻 I’m a Software & Cloud Engineer with an interest in automation and efficiency
+-   🚀 I have experience in full-stack development and cloud-native solutions
+-   🌱 Currently exploring distributed systems and cloud architectures
+-   📱 My social media app (Android): [Google Play](https://play.google.com/store/apps/details?id=com.ARMOYU)
+-   📱 My social media app (iOS): [App Store](https://apps.apple.com/tr/app/armoyu/id6448871009)
+-   📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ersanguvenc/)
 
 ----
 
@@ -34,15 +32,21 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/ersanguvenc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ersan.guvenc@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ersanguvenc/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:ersan.guvenc@icloud.com">
+  <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white">
+</a>
+
 
 ----
 
 ### Languages and Tools:
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -53,28 +57,4 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <br>
-
 ----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<!--## Now Playing
-
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
--->
-
-<!---
-ErsanGvnc/ErsanGvnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-[website]: https://devssociety.com/
-[linkedin]: https://www.linkedin.com/in/ersanguvenc/
